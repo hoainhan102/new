@@ -1,0 +1,15 @@
+C:\Users\WIN 10\source\repos\Nhanhoc\Nhanhoc\bin\Debug\net6.0\Nhanhoc.exe
+C:\Users\WIN 10\source\repos\Nhanhoc\Nhanhoc\bin\Debug\net6.0\Nhanhoc.deps.json
+C:\Users\WIN 10\source\repos\Nhanhoc\Nhanhoc\bin\Debug\net6.0\Nhanhoc.runtimeconfig.json
+C:\Users\WIN 10\source\repos\Nhanhoc\Nhanhoc\bin\Debug\net6.0\Nhanhoc.dll
+C:\Users\WIN 10\source\repos\Nhanhoc\Nhanhoc\bin\Debug\net6.0\ref\Nhanhoc.dll
+C:\Users\WIN 10\source\repos\Nhanhoc\Nhanhoc\bin\Debug\net6.0\Nhanhoc.pdb
+C:\Users\WIN 10\source\repos\Nhanhoc\Nhanhoc\obj\Debug\net6.0\Nhanhoc.csproj.AssemblyReference.cache
+C:\Users\WIN 10\source\repos\Nhanhoc\Nhanhoc\obj\Debug\net6.0\Nhanhoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\source\repos\Nhanhoc\Nhanhoc\obj\Debug\net6.0\Nhanhoc.AssemblyInfoInputs.cache
+C:\Users\WIN 10\source\repos\Nhanhoc\Nhanhoc\obj\Debug\net6.0\Nhanhoc.AssemblyInfo.cs
+C:\Users\WIN 10\source\repos\Nhanhoc\Nhanhoc\obj\Debug\net6.0\Nhanhoc.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\source\repos\Nhanhoc\Nhanhoc\obj\Debug\net6.0\Nhanhoc.dll
+C:\Users\WIN 10\source\repos\Nhanhoc\Nhanhoc\obj\Debug\net6.0\ref\Nhanhoc.dll
+C:\Users\WIN 10\source\repos\Nhanhoc\Nhanhoc\obj\Debug\net6.0\Nhanhoc.pdb
+C:\Users\WIN 10\source\repos\Nhanhoc\Nhanhoc\obj\Debug\net6.0\Nhanhoc.genruntimeconfig.cache
